@@ -1,0 +1,40 @@
+
+        1. Type Casting
+        2. String Practices
+
+
+        1. Type Casting
+
+
+          a.Implicit casting
+            -Done by compiler
+            -Smaller to bigger data type
+            -No loss data
+
+           b. Explicit Casting
+               -Done by developer
+               -Bigger to smaller
+               -we can loss data
+
+               double = 5.3;
+               int b=(int)a;
+
+               double a=5;
+               int b=(int)a;
+
+           String Methods:
+
+                charAt();
+                length();
+                replace();
+                trim();
+                substring();
+                lastIndexOf();
+                contains();
+                equals();
+                repeat();
+                endsWith();
+                isEmpty();
+                isBlank();
+                toUpperCase();
+                toLowerCase();
